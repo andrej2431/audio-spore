@@ -1,4 +1,4 @@
-#include "library.h"
+#include "../include/audio-spore/library.h"
 
 #include <iostream>
 
